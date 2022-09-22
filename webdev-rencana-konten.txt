@@ -4,7 +4,7 @@ RENCANA WEBSITE FIRDO
 *Framework Javasript
 *Vue JS
 *react JS
-*NodeJS
+*Connecting
 -php framworks
 *Laravel
 -Vlogs
