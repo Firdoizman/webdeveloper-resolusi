@@ -5,3 +5,4 @@ RENCANA WEBSITE FIRDO
 *NodeJS
 -php framworks
 -Vlogs
+-Membuat Struktur Data
