@@ -2,7 +2,11 @@ RENCANA WEBSITE FIRDO
 
 -javascript
 *Framework Javasript
-*NodeJS
+*Vue JS
+*react JS
+*Connecting
 -php framworks
+*Laravel
 -Vlogs
 -Membuat Struktur Data
+-Pyton
